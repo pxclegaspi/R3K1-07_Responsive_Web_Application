@@ -1,0 +1,22 @@
+div.stButton > button {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.stRadio > label {
+    font-weight: bold;
+    padding: 10px;
+}
+
+.stMarkdown {
+    font-size: 18px;
+}
+
+.css-1d391kg {
+    padding: 20px;
+}
+
+.stAlert {
+    margin: 15px 0;
+}
